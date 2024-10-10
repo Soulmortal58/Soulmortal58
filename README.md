@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠𝗘+𝗧𝗢+𝗠𝗔𝗛𝗧𝗢+𝗔𝗡𝗝𝗔𝗟𝗜+𝗚𝗜𝗧𝗛𝗨𝗕!;𝗜+𝗔𝗺+𝗠𝗶𝘀𝘀+𝗔𝗡𝗝𝗔𝗟𝗜+𝗧𝗚!;𝗜+𝗔𝗺+𝗝𝘂𝘀𝘁+𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺+𝗕𝗼𝘁+𝗠𝗮𝗸𝗲𝗿!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠𝗘+𝗧𝗢+𝗦𝗢𝗨𝗟+𝗠𝗢𝗥𝗧𝗔𝗟+𝗚𝗜𝗧𝗛𝗨𝗕!;𝗜+𝗔𝗺+𝗛𝗮𝗰𝗸𝗲𝗿+𝗢𝗳+𝗧𝗚!;𝗜+𝗔𝗺+𝗝𝘂𝘀𝘁+𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺+𝗛𝗮𝗰𝗸+𝗠𝗮𝗸𝗲𝗿!)</p>
 <p align="center">
 
 
@@ -6,7 +6,7 @@
 <p align="left">
 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
 <p align="left">
-• 𝙼𝚢 𝙽𝚊𝚖𝚎 : 𝙼𝙰𝙷𝚃𝙾 𝙰𝙽𝙹𝙰𝙻𝙸 😉
+• 𝙼𝚢 𝙽𝚊𝚖𝚎 :𝚂𝙾𝚄𝙻 𝙼𝙾𝚁𝚃𝙰𝙻 😉
 <p align="left">
 • 𝙰𝚐𝚎 : 19
 <p align="left">
@@ -14,10 +14,10 @@
 <p align="left">
 • 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : 𝙺𝙷𝙾𝚁𝚃𝙷𝙰
 <p align="left">
-• 𝚆𝚘𝚛𝚔 : 𝚂𝚝𝚞𝚍𝚢 𝙸𝚗 𝚍𝚎𝚐𝚛𝚎𝚎 2 𝚢𝚎𝚊𝚛
+• 𝚆𝚘𝚛𝚔 : 𝚂𝚝𝚞𝚍𝚢 𝙸𝚗 𝚍𝚎𝚐𝚛𝚎𝚎 1 𝚢𝚎𝚊𝚛
 <p align="left">
 - 𝙼𝚘𝚜𝚝 𝙰𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 🔥
-<h1> <img src="https://te.legra.ph/file/ad4e3f7bfb68de7bebe76.jpg" height="90px" width="80px"> ʜᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴍᴀʜᴛᴏ ᴀɴᴊᴀʟɪ</h1>
+<h1> <img src="https://te.legra.ph/file/ad4e3f7bfb68de7bebe76.jpg" height="90px" width="80px"> ʜᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪssᴏᴜʟ ʜᴀᴄᴋᴇʀ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/MAHTO-ANJALI/count.svg" />
@@ -34,9 +34,9 @@
 <h1> <img src="[https://te.legra.ph/file/ad4e3f7bfb68de7bebe76.jpg]" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
-class MAHTO():
+class ᴍᴏʀᴛᴀʟ():
     def __init__(self):
-        self.name = ['MAHTO ANJALI]
+        self.name = ['𝖲𝖮𝖴𝖫 𝖬𝖮𝖱𝖳𝖠𝖫]
         self.country = ['India']
         self.language = ['हिंदी', 'Khortha', 'English']
     def programming_languages(self):
