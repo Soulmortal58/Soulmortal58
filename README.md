@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @Soulmortal58
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+█▀▀▀▀▀▀▀▀🇮🇳▀▀▀▀▀▀▀▀█ 
+          ᴍɪɴᴇ  ʙᴀsɪᴄ ɪɴғᴏ 
 
-<!---
-Soulmortal58/Soulmortal58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+┏➤ 𝐍𝐀𝐌𝐄 :- 𝗦𝗢𝗨𝗟乛𝐎𝐖𝐍𝐄𝐑  🔰
+
+┣ 𝐑𝐄𝐋𝐄𝐆𝐈𝐎𝐍 :- 🔤🔤🔤 🔤 🔤
+┣
+┣➤ 𝐔𝐒𝐄𝐑 𝐍𝐀𝐌𝐄 :- @Soul_mortal58👑
+┣ 
+┣➤ 𝐍𝐀𝐌𝐄 :- 𝗦𝗢𝗡𝗨 𝗞𝗨𝗠𝗔𝗥✅
+┣
+┣➤ 𝐅𝐑𝐎𝐌 :-  𝐈𝐍𝐃𝐈𝐀 「🇮🇳」💟
+
+┣➤ 𝐈𝐍𝐓𝐄𝐑𝐄𝐒𝐓 :- 𝐇𝐀𝐂𝐊𝐈𝐍𝐆 🪩
+┣            
+┗➤ 𝐃𝐀𝐓𝐄 𝐎𝐅 𝐁𝐈𝐑𝐓𝐇  :- 17 𝗦𝗘𝗣 👑
+┣
+┣➤ 𝐅𝐑𝐎𝐌 :- [ 𝐉𝐇𝐀𝐑𝐊𝐇𝐀𝐍𝐃 ] ( 𝐇𝐀𝐙𝐀𝐑𝐈𝐁𝐀𝐆𝐇 𝐊𝐄𝐑𝐄𝐃𝐀𝐑𝐈   ) ♾
+┣
+┣➤ 𝐎𝐖𝐍𝐄𝐑 𝐂𝐇𝐄𝐍𝐍𝐄𝐋 :-https://t.me/+HIDLCVEd5Nk4OGE1
+┣
+┣➤:- https://t.me/+qei35O8wKjZhOTQ1
+
+┣𝐓𝐫𝐮𝐬𝐭𝐞𝐝 𝐟𝐫𝐢𝐞𝐧𝐝𝐬 ⭐️
+↠@NEON_xD (Jaan) ☺️ 
+↠@MRF_OWNER
+↠@MODbyDEVLEPER
+↠@AKRANABOSS
+↠@BLACKx_GOD
+↠@darkstar09s
+
+
+┣➤ 𝐍𝐎𝐖 𝐘𝐎𝐔 𝐊𝐍𝐎𝐖 𝐌𝐄 🦢
+┣
+┣➤ 𝐈𝐓'𝐒 𝐌𝐄 𝐀𝐁𝐎𝐔𝐓 :- https://t.me/soulabout07 ✅
+
+    █▃▃▃▃▃▃▃▃🇮🇳▃▃▃▃▃▃▃▃█
+    ➖➖➖➖➖➖➖➖➖➖
+    
