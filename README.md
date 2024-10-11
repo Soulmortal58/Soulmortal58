@@ -22,7 +22,7 @@
 <h1> <img src="https://envs.sh/nIA.jpg" height="60px" width="60px"> ʜᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs sᴏᴜʟ ᴍᴏʀᴛᴀʟ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/MAHTO-ANJALI/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Soulmortal58/count.svg" />
 </p>
 
 [<img src="https://github.com/Soulmortal58/Soulmortal58/blob/master/resources/hr.gif"/>](https://github.com/Soulmortal58)
