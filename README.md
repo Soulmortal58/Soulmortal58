@@ -19,7 +19,7 @@
 • 𝚆𝚘𝚛𝚔 : 𝚂𝚝𝚞𝚍𝚢 𝙸𝚗 𝚍𝚎𝚐𝚛𝚎𝚎 1 𝚢𝚎𝚊𝚛
 <p align="left">
 - 𝙼𝚘𝚜𝚝 𝙰𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 🔥
-<h1> <img src="https://envs.sh/nIA.jpg" height="50px" width="50px"> ʜᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs sᴏᴜʟ ᴍᴏʀᴛᴀʟ </h1>
+<h1> <img src="https://envs.sh/nIA.jpg" height="60px" width="60px"> ʜᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs sᴏᴜʟ ᴍᴏʀᴛᴀʟ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/MAHTO-ANJALI/count.svg" />
