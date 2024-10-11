@@ -33,7 +33,7 @@
 
 [<img src="https://raw.githubusercontent.com/Soulmortal58/Soulmortal58/master/resources/hr.gif"/>](https://github.com/Soulmortal58)
 
-<h1> <img src="https://envs.sh/n54.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+<h1> <img src="https://envs.sh/n5x.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
 class ᴍᴏʀᴛᴀʟ():
