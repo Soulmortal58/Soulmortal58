@@ -65,7 +65,7 @@ class ᴍᴏʀᴛᴀʟ():
 
 [<img src="https://github.com/Soulmortal58/Soulmortal58/blob/master/resources/hr.gif"/>](https://github.com/https://github.com/Soulmortal58)
 
-<h1> <img src="https://envs.sh/n54.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+<h1> <img src="https://envs.sh/nIA.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
 [<img src="https://raw.githubusercontent.com/Soulmortal58/Soulmortal58/master/resources/telegram_icon.png" width="60px">](https://t.me/Soulmortal58) [<img src="https://raw.githubusercontent.com/Soulmortal58/Soulmortal58/master/resources/github_icon.png" width="60px">](https://github.com/Soulmortal58) [<img src="https://raw.githubusercontent.com/Soulmortal58/Soulmortal58/master/resources/youtube_icon.png" width="60px">](https://youtube.com/@Soulmortal58) [<img src="https://github.com/Soulmortal58/Soulmortal58/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/@Soulmortal58)
 
