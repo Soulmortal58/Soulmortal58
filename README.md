@@ -28,7 +28,7 @@
 [<img src="https://github.com/Soulmortal58/Soulmortal58/blob/master/resources/hr.gif"/>](https://github.com/Soulmortal58)
 
 <p align="center">
-<img src="https://envs.sh/n54.jpg">
+<img src="https://envs.sh/nIA.jpg">
 </p>
 
 [<img src="https://raw.githubusercontent.com/Soulmortal58/Soulmortal58/master/resources/hr.gif"/>](https://github.com/Soulmortal58)
