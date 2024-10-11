@@ -67,5 +67,5 @@ class ᴍᴏʀᴛᴀʟ():
 
 <h1> <img src="https://envs.sh/nGD.jpg" width="60px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-[<img src="https://envs.sh/nGB.jpg" width="40px">](https://t.me/Soulmortal58) [<img src="https://envs.sh/nGj.jpg" width="40px">](https://github.com/Soulmortal58) [<img src="https://envs.sh/nGR.jpg" width="40px" height="40px">](https://youtube.com/@Soulmortal58) [<img src="https://envs.sh/nGi.jpg" width="40px">](https://instagram.com/@Soulmortal58)
+[<img src="https://envs.sh/nGB.jpg" width="40px">](https://t.me/Soul_mortal58) [<img src="https://envs.sh/nGj.jpg" width="40px">](https://github.com/Soulmortal58) [<img src="https://envs.sh/nGR.jpg" width="40px" height="40px">](https://youtube.com/@Soulmortal58) [<img src="https://envs.sh/nGi.jpg" width="40px">](https://instagram.com/@Soulmortal58)
 
